@@ -1,0 +1,9 @@
+{
+    "name": "rot-resprites",
+    "displayName": "Item resprites",
+    "author": "R.O.T.",
+    "description": "Changes sprites of Serpulo's items",
+    "version": "none",
+    "minGameVersion": "147",
+    "dependencies": []
+}
