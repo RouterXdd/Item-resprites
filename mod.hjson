@@ -4,6 +4,7 @@
     "author": "R.O.T.",
     "description": "Changes sprites of Serpulo's items",
     "version": "none",
+    "hidden": true,
     "minGameVersion": "147",
     "dependencies": []
 }
